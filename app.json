@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "swipetalk",
+    "slug": "swipetalk",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "swipetalk"
+}
