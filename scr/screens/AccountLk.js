@@ -2,7 +2,7 @@ import * as React from 'react';
 import { useEffect, useState } from 'react';
 import { setLogin } from '../../store/actions';
 import {useDispatch,useSelector} from 'react-redux'
-import { View,Image,ActivityIndicator, FlatList, Text ,StyleSheet,Button} from 'react-native';
+import { View, Text ,StyleSheet,Button} from 'react-native';
 import SignIn from '../components/SignIn';
 
 function AccountLk({ navigation }) {
